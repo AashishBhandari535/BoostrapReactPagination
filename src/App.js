@@ -55,3 +55,4 @@ function App() {
 export default App;
 //Optimizing useEffect: https://medium.com/@huzaimakhan/optimizing-useeffect-in-react-7e6dca0f4a0b
 //pagination tutorial:https://github.com/KunalN25/simple-react-pagination
+//Dynamic header with intersection observer:https://www.smashingmagazine.com/2021/07/dynamic-header-intersection-observer/
